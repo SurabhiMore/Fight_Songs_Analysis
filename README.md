@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the evolution of college fight songs in the United States. While these songs have been a longstanding tradition, their lyrical content has shifted over time—from aggressive calls to fight and win in early songs to themes celebrating school spirit, identity, and tradition in modern eras.
+This project explores the evolution of college fight songs in the United States. While these songs have been a longstanding tradition, their lyrical content has shifted over time, from aggressive calls to fight and win in early songs to themes celebrating school spirit, identity, and tradition in modern eras.
 
 Using data analysis and interactive visualizations, this project investigates common lyrical tropes and how they change across eras and athletic conferences.
 
