@@ -82,10 +82,10 @@ Tropes are marked as 'Yes' or 'No'.
 ## Usage
 
 1. Mount Google Drive (if using Colab) and load the dataset:
-    '''python
+    ```python
     from google.colab import drive
     drive.mount('/content/drive')
-    '''
+    ```
 2. Import required libraries and read the CSV file.
 3. Encode eras and tropes.
 4. Generate radar plot and heatmap visualizations to explore trends.
